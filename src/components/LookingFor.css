@@ -1,0 +1,20 @@
+@keyframes styles_slide-to-left__1_cC5 {
+  0% {
+    transform: translateZ(0);
+  }
+
+  to {
+    transform: translate3d(-1227px, 0, 0);
+  }
+}
+
+.styles_slideToLeft__skudD {
+  animation: styles_slide-to-left__1_cC5 30s linear infinite;
+}
+
+.container_for {
+  overflow-x: scroll;
+  max-width: 100%;
+  position: relative;
+  padding: 0;
+}
